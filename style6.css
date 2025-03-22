@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+div{
+    background-color: lightcoral;
+    margin-top: 100px;
+    max-width: 40%;
+    margin-left: 240px;
+}

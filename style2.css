@@ -1,0 +1,46 @@
+body{
+    background-color: gold;
+    display: flex;
+    padding: 100px;
+}
+@media screen and (max-width: 750px) {
+    body{
+        background-color: gold;
+        display: flex;
+        padding: 100px;
+    }
+}
+div{
+    background-color: goldenrod;
+    max-width: 99%;
+}
+a{
+    background-color: rgb(235, 177, 108);
+    color: blanchedalmond;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2.3px;
+    margin: 35px 7px 15px 0px;
+    margin-left: 300px;
+}
+.grilled{
+    max-width: 25%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    
+}
+.cheese{
+    max-height: 100%;
+    margin-top: 40px;
+    
+}
+.is{
+    max-width: 25%;
+}
+.best{
+    max-width: 25%;
+}
+.sandwich{
+    max-width: 25%;
+    margin-bottom: 20px;
+}
